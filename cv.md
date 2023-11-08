@@ -16,7 +16,7 @@
 * Adobe Photoshop
 
 ## Code Example
-**My first slider**
+**Function that reverse digits of number.**
 ```javascript
 function reverse (n) {
     let str = n.toString();
